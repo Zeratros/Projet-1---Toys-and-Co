@@ -3,7 +3,7 @@
 ## Project Overview
 This project is part of the curriculum at the Wild Code School and focuses on creating a comprehensive dashboard for Toys&co. The main areas of concentration for the dashboard include sales, finance, logistics, and human resources.
 
-## Objectives
+## Objectives 🎯
 The primary objectives of the dashboard are as follows:
 
 ### Sales 📈
