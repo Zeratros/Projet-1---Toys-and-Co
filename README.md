@@ -6,6 +6,9 @@ This project is part of the curriculum at the Wild Code School and focuses on cr
 ## Objectives 🎯
 The primary objectives of the dashboard are as follows:
 
+## Time ⌛ 
+4 weeks
+
 ### Sales 📈
 - Display the number of products sold by category and by month.
 - Provide a comparison and rate of change compared to the same month of the previous year.
