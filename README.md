@@ -19,5 +19,3 @@ The primary objectives of the dashboard are as follows:
 
 ### Human Resources 👥
 - Identify and display each month's top 2 sellers with the highest turnover.
-
-## Additional Considerations
